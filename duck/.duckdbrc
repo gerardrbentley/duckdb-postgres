@@ -1,0 +1,5 @@
+.prompt '⚫◗ '
+INSTALL postgres_scanner;
+LOAD postgres_scanner;
+CALL postgres_attach('dbname=$POSTGRES_DB user=$POSTGRES_USER password=$POSTGRES_PASSWORD host=$POSTGRES_HOST');
+PRAGMA show_tables;
