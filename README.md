@@ -1,5 +1,9 @@
 # CTE vs Subqueries: Who gives a 🦆uck
 
+See blog post: https://home.gerardbentley.com/blog/cte-subquery-who-gives-a-duck/ 
+
+Or blog source for follow along: https://github.com/gerardrbentley/lost_crumbs/blob/main/docs/blog/cte-subquery-who-gives-a-duck.md
+
 ## Setup Commands
 
 ```sh
