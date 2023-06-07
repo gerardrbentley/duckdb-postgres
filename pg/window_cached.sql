@@ -1,4 +1,4 @@
--- src: dbfiddle.uk/wLZ4H496 @FrankPachot
+-- src: dbfiddle.uk/wLZ4H496 @FranckPachot
 explain analyze
 select name,
     course
